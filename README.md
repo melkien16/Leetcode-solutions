@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/melkien16/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [1019-squares-of-a-sorted-array](https://github.com/melkien16/Leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/melkien16/Leetcode-solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/melkien16/Leetcode-solutions/tree/master/2698-find-the-array-concatenation-value) |
 ## Two Pointers
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/melkien16/Leetcode-solutions/tree/master/0035-search-insert-position) |
+## Prefix Sum
+|  |
+| ------- |
+| [2102-find-the-middle-index-in-array](https://github.com/melkien16/Leetcode-solutions/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
