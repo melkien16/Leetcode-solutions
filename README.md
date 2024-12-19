@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/melkien16/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [1019-squares-of-a-sorted-array](https://github.com/melkien16/Leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/melkien16/Leetcode-solutions/tree/master/2698-find-the-array-concatenation-value) |
 ## Two Pointers
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/melkien16/Leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/melkien16/Leetcode-solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
