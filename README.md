@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/melkien16/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/melkien16/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/melkien16/Leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/melkien16/Leetcode-solutions/tree/master/2698-find-the-array-concatenation-value) |
 ## Simulation
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/melkien16/Leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/melkien16/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/melkien16/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -39,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2102-find-the-middle-index-in-array](https://github.com/melkien16/Leetcode-solutions/tree/master/2102-find-the-middle-index-in-array) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/melkien16/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/melkien16/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
