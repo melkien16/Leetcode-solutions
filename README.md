@@ -58,13 +58,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/melkien16/Leetcode-solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/melkien16/Leetcode-solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/melkien16/Leetcode-solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/melkien16/Leetcode-solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Counting
 |  |
 | ------- |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/melkien16/Leetcode-solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Math
+|  |
+| ------- |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/melkien16/Leetcode-solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 <!---LeetCode Topics End-->
