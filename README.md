@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/melkien16/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [1019-squares-of-a-sorted-array](https://github.com/melkien16/Leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/melkien16/Leetcode-solutions/tree/master/2102-find-the-middle-index-in-array) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/melkien16/Leetcode-solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2698-find-the-array-concatenation-value](https://github.com/melkien16/Leetcode-solutions/tree/master/2698-find-the-array-concatenation-value) |
 ## Two Pointers
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/melkien16/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/melkien16/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/melkien16/Leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/melkien16/Leetcode-solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2698-find-the-array-concatenation-value](https://github.com/melkien16/Leetcode-solutions/tree/master/2698-find-the-array-concatenation-value) |
 ## Simulation
 |  |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/melkien16/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/melkien16/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/melkien16/Leetcode-solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/melkien16/Leetcode-solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Linked List
 |  |
 | ------- |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/melkien16/Leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/melkien16/Leetcode-solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Binary Search
 |  |
 | ------- |
