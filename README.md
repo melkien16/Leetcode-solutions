@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/melkien16/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/melkien16/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/melkien16/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/melkien16/Leetcode-solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/melkien16/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/melkien16/Leetcode-solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/melkien16/Leetcode-solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/melkien16/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/melkien16/Leetcode-solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/melkien16/Leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
